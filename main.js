@@ -70,3 +70,4 @@ if (lista.length == possibilita){
         alert('hai vinto la coppa del nonno')
 }
 console.log(lista);
+
